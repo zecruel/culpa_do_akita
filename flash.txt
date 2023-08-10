@@ -1,0 +1,3 @@
+st-flash --reset --format binary write ./generic_boot20_pc13.bin 0x8000000
+cd qmk_firmware/
+dfu-util -a 2 -d 1EAF:0003 -D ./culpa_do_akita_default.bin 
