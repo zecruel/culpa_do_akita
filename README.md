@@ -1,2 +1,2 @@
 # culpa_do_akita
-Ergonomic smart split keyboard project
+Ergonomic (column-staggered ortholinear) smart split keyboard project
